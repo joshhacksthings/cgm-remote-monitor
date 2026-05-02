@@ -1,4 +1,4 @@
-FROM node:16.16.0-alpine
+FROM node:20-alpine
 
 LABEL maintainer="Nightscout Contributors"
 
